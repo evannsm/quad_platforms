@@ -1,4 +1,4 @@
-# quad_platforms
+# Platform abstraction for throttle-based Quadrotor control in ROS 2 (python)
 
 A ROS 2 Python library providing an abstract platform interface for quadrotor controllers. Enables the same controller code to run seamlessly on simulation and hardware by encapsulating platform-specific mass and thrust-throttle conversions behind a common API.
 
